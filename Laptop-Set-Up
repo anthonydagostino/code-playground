@@ -1,3 +1,5 @@
 @echo off
 cd /d "C:\Users\17326\Documents\Utilities"
 VirtualDesktop.exe /switch:3
+
+VirtualDesktop.exe /switch:2
